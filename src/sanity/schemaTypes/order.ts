@@ -1,6 +1,6 @@
 
 
-export default{
+const Order = {
     name:"order",
     type:"document",
     title:"Order",
@@ -77,3 +77,4 @@ export default{
         }
     ]
  }
+ export default Order;
